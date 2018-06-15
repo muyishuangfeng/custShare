@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Custom</string>
+    <string name="text_open">马上开户</string>
+    <string name="text_login">立即登录</string>
+    <string name="text_free">免费体验</string>
+    <string name="text_home">首页</string>
+    <string name="loading">加载中...</string>
+    <string name="tips">提示</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="know">知道</string>
+    <string name="press_back">亲，请再按一次退出</string>
+    <string name="nagv_home">首页</string>
+    <string name="nagv_myself">我的</string>
+    <string name="nagv_allocation">配资</string>
+    <string name="nagv_transaction">交易</string>
+    <string name="nagv_position">持仓</string>
+    <string name="text_logins">登录</string>
+    <string name="input_user_name">请输入用户名</string>
+    <string name="input_sure_pass">请确认密码</string>
+    <string name="input_user_pass">请输入密码</string>
+    <string name="text_forget_pass">忘记密码</string>
+    <string name="text_rememer_pass">记住密码</string>
+    <string name="text_no_register">还没有注册？</string>
+    <string name="text_register">点击注册</string>
+    <string name="text_registers">注册</string>
+    <string name="input_phone">请收入手机号码</string>
+    <string name="text_code">验证码</string>
+    <string name="input_nick_name">请输入昵称</string>
+    <string name="input_agent">请输入代理</string>
+</resources>
